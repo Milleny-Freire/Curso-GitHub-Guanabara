@@ -38,3 +38,14 @@ Lista de TGarefas:
 ---
 
 [Acesse meu Linkedin](https://www.linkedin.com/in/millenyfreire/)
+
+---
+
+Num | Nome | Nota
+---|---|---|
+1 | Milleny | 9,0
+2 | Gustavo | 8,5
+3 | José | 10,0
+4 | Maria | 7,0
+
+Terminou a tabela
