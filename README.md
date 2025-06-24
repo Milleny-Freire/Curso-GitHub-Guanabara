@@ -34,3 +34,7 @@ Lista de TGarefas:
 - [] Criar a pagina da loja
 - [] Finalizar a reunião com o cliente
 - [] Receber pagamento
+
+---
+
+[Acesse meu Linkedin](https://www.linkedin.com/in/millenyfreire/)
