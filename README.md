@@ -49,3 +49,10 @@ Num | Nome | Nota
 4 | Maria | 7,0
 
 Terminou a tabela
+
+---
+
+:)
+✋
+🖖
+😃
